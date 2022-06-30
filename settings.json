@@ -1,0 +1,12 @@
+{
+  "token": "TOKEN",
+  "prefix" : "!",
+  "owner" : ["847596022020309013","",""],
+  "clientid" : "890513990457913394",
+  "clientsecret" : "ZldI3Csz9GKBal9N4B3hCK7KxJcHFiek",
+  "clientcallback" : "https://erixs-botlist-wq.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://erixswwq:onuronur7878@botlistt.hyxqk.mongodb.net/erixsvideo?retryWrites=true&w=majority",
+  "serverID": "859060224311951372",
+  "footer": "Erixs Code 2021 © All rights reserved.",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
